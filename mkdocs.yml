@@ -3,3 +3,16 @@ site_url: https://docs.nexlayer.com
 
 theme:
   name: material
+  language: en
+  palette:
+   - scheme: slate #dark mode
+     toggle:
+       icon: material/toggle-switch
+       name: Switch to dark mode
+   - scheme: default #light mode
+     toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
