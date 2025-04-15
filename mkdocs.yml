@@ -1,0 +1,5 @@
+site_name: NexLayer Docs
+site_url: https://docs.nexlayer.com
+
+theme:
+  name: material
